@@ -1,6 +1,8 @@
 # jasonoyy.github.io
 
 http://119.45.185.117/
+
+
 #Q1:程序怎样取得输入、进行输出?
 A:你的程序应该从标准输入Scanner cin = new Scanner(System.in);
 并将结果输出到标准输出 System.out.println();: 推荐使用Java，系统也支持C++和Python等其它语言:
